@@ -76,6 +76,8 @@
                         <th>البريد الإلكتروني</th>
                         <th>الاسم الكامل</th>
                         <th>الدور</th>
+                        <th>الدورات</th>
+                        <th>الاختبارات</th>
                         <th>الحالة</th>
                         <th>تاريخ التسجيل</th>
                         <th>الإجراءات</th>
@@ -115,6 +117,16 @@
                                 ?>
                             </td>
                             <td>
+                                <span class="neo-badge neo-badge-primary">
+                                    <i class="fas fa-book me-1"></i> <?php echo isset($user['course_count']) ? $user['course_count'] : 0; ?>
+                                </span>
+                            </td>
+                            <td>
+                                <span class="neo-badge neo-badge-warning">
+                                    <i class="fas fa-file-alt me-1"></i> <?php echo isset($user['exam_count']) ? $user['exam_count'] : 0; ?>
+                                </span>
+                            </td>
+                            <td>
                                 <?php 
                                 $statusLabels = [
                                     'active' => '<span class="status-badge status-active">نشط</span>',
@@ -137,25 +149,6 @@
                                         <i class="fas fa-trash"></i>
                                     </a>
                                 </div>
-                                
-                                <!-- Delete Modal -->
-                                <div class="modal fade" id="deleteModal<?php echo $user['id']; ?>" tabindex="-1" aria-labelledby="deleteModalLabel<?php echo $user['id']; ?>" aria-hidden="true">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content neo-card">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="deleteModalLabel<?php echo $user['id']; ?>">تأكيد الحذف</h5>
-                                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                            </div>
-                                            <div class="modal-body">
-                                                هل أنت متأكد من حذف المستخدم <strong><?php echo htmlspecialchars($user['username']); ?></strong>؟
-                                            </div>
-                                            <div class="modal-footer">
-                                                <button type="button" class="neo-btn neo-btn-secondary" data-bs-dismiss="modal">إلغاء</button>
-                                                <a href="/admin/users/delete/<?php echo $user['id']; ?>" class="neo-btn neo-btn-danger">حذف</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                             </td>
                         </tr>
                         <?php 
@@ -167,6 +160,30 @@
                 </tbody>
             </table>
         </div>
+        
+        <!-- Delete Modals -->
+        <?php if (!empty($users)): ?>
+            <?php foreach ($users as $user): ?>
+                <!-- Delete Modal for User <?php echo $user['id']; ?> -->
+                <div class="modal fade" id="deleteModal<?php echo $user['id']; ?>" tabindex="-1" aria-labelledby="deleteModalLabel<?php echo $user['id']; ?>" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content neo-card">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="deleteModalLabel<?php echo $user['id']; ?>">تأكيد الحذف</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                هل أنت متأكد من حذف المستخدم <strong><?php echo htmlspecialchars($user['username']); ?></strong>؟
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="neo-btn neo-btn-secondary" data-bs-dismiss="modal">إلغاء</button>
+                                <a href="/admin/users/delete/<?php echo $user['id']; ?>" class="neo-btn neo-btn-danger">حذف</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <?php endforeach; ?>
+        <?php endif; ?>
         
         <!-- Pagination -->
         <?php if ($totalPages > 1): ?>

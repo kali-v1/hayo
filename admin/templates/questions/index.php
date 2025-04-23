@@ -328,6 +328,50 @@
                                 </tbody>
                             </table>
                         </div>
+                        
+                        <!-- Delete Modals -->
+                        <?php if (!empty($questions)): ?>
+                            <?php foreach ($questions as $question): ?>
+                                <!-- Delete Modal for Question <?php echo $question['id']; ?> -->
+                                <div class="modal fade" id="deleteModal<?php echo $question['id']; ?>" tabindex="-1" aria-labelledby="deleteModalLabel<?php echo $question['id']; ?>" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered">
+                                        <div class="neo-modal">
+                                            <div class="neo-modal-header neo-modal-header-danger">
+                                                <h5 class="modal-title" id="deleteModalLabel<?php echo $question['id']; ?>">
+                                                    <i class="fas fa-exclamation-triangle me-2"></i>
+                                                    تأكيد الحذف
+                                                </h5>
+                                                <button type="button" class="neo-btn-close" data-bs-dismiss="modal" aria-label="Close">
+                                                    <i class="fas fa-times"></i>
+                                                </button>
+                                            </div>
+                                            <div class="neo-modal-body">
+                                                <div class="neo-alert neo-alert-warning">
+                                                    <i class="fas fa-exclamation-triangle me-2"></i>
+                                                    هل أنت متأكد من حذف هذا السؤال؟ لا يمكن التراجع عن هذه العملية.
+                                                </div>
+                                                <div class="neo-card-inner mt-3">
+                                                    <strong class="d-block mb-2">السؤال:</strong>
+                                                    <div class="neo-card-content">
+                                                        <?php echo htmlspecialchars(mb_substr(strip_tags($question['question_text']), 0, 100)) . (mb_strlen(strip_tags($question['question_text'])) > 100 ? '...' : ''); ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="neo-modal-footer">
+                                                <button type="button" class="neo-btn neo-btn-secondary" data-bs-dismiss="modal">
+                                                    <i class="fas fa-times me-1"></i>
+                                                    إلغاء
+                                                </button>
+                                                <a href="/admin/questions/delete/<?php echo $question['id']; ?>" class="neo-btn neo-btn-danger">
+                                                    <i class="fas fa-trash-alt me-1"></i>
+                                                    حذف
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach; ?>
+                        <?php endif; ?>
                     </div>
                 <?php endif; ?>
             </div>

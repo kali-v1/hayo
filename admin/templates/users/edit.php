@@ -105,20 +105,21 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="mb-3">
-                            <label for="phone" class="form-label">رقم الهاتف</label>
-                            <input type="text" class="form-control" id="phone" name="phone" value="<?php echo htmlspecialchars($form_data['phone'] ?? ''); ?>">
+                            <label for="mobile_number" class="form-label">رقم الجوال (مع رمز الدولة)</label>
+                            <div class="input-group">
+                                <span class="input-group-text">+</span>
+                                <input type="text" class="form-control" id="mobile_number" name="mobile_number" 
+                                    placeholder="966501234567" 
+                                    value="<?php 
+                                        $mobile = $form_data['mobile_number'] ?? '';
+                                        // Remove the + if it exists
+                                        echo htmlspecialchars(ltrim($mobile, '+'));
+                                    ?>">
+                            </div>
+                            <div class="form-text">أدخل رقم الجوال مع رمز الدولة بدون الرمز + (مثال: 966501234567)</div>
                         </div>
                     </div>
                     
-                    <div class="col-md-6">
-                        <div class="mb-3">
-                            <label for="mobile_number" class="form-label">رقم الجوال</label>
-                            <input type="text" class="form-control" id="mobile_number" name="mobile_number" value="<?php echo htmlspecialchars($form_data['mobile_number'] ?? ''); ?>">
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="row">
                     <div class="col-md-6">
                         <div class="mb-3">
                             <label for="status" class="form-label">الحالة</label>
@@ -128,8 +129,12 @@
                             </select>
                         </div>
                     </div>
-                    
-                    <input type="hidden" name="role" value="<?php echo htmlspecialchars($form_data['role'] ?? 'user'); ?>">
+                </div>
+                
+                <div class="row">
+                    <div class="col-md-6">
+                        <input type="hidden" name="role" value="<?php echo htmlspecialchars($form_data['role'] ?? 'user'); ?>">
+                    </div>
                 </div>
                 
                 <div class="d-flex justify-content-between mt-4">

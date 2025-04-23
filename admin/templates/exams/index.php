@@ -161,25 +161,6 @@
                                         </a>
                                         <?php endif; ?>
                                     </div>
-                                    
-                                    <!-- Delete Modal -->
-                                    <div class="modal fade" id="deleteModal<?php echo $exam['id']; ?>" tabindex="-1" aria-labelledby="deleteModalLabel<?php echo $exam['id']; ?>" aria-hidden="true">
-                                        <div class="modal-dialog">
-                                            <div class="modal-content neo-card">
-                                                <div class="modal-header">
-                                                    <h5 class="modal-title" id="deleteModalLabel<?php echo $exam['id']; ?>">تأكيد الحذف</h5>
-                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                                </div>
-                                                <div class="modal-body">
-                                                    هل أنت متأكد من حذف الاختبار <strong><?php echo htmlspecialchars($exam['title']); ?></strong>؟
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="button" class="neo-btn neo-btn-secondary" data-bs-dismiss="modal">إلغاء</button>
-                                                    <a href="/admin/exams/delete/<?php echo $exam['id']; ?>" class="neo-btn neo-btn-danger">حذف</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </td>
                             </tr>
                             <?php endforeach; ?>
@@ -187,6 +168,30 @@
                     </tbody>
                 </table>
             </div>
+            
+            <!-- Delete Modals -->
+            <?php if (!empty($exams)): ?>
+                <?php foreach ($exams as $exam): ?>
+                    <!-- Delete Modal for Exam <?php echo $exam['id']; ?> -->
+                    <div class="modal fade" id="deleteModal<?php echo $exam['id']; ?>" tabindex="-1" aria-labelledby="deleteModalLabel<?php echo $exam['id']; ?>" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content neo-card">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="deleteModalLabel<?php echo $exam['id']; ?>">تأكيد الحذف</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    هل أنت متأكد من حذف الاختبار <strong><?php echo htmlspecialchars($exam['title']); ?></strong>؟
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="neo-btn neo-btn-secondary" data-bs-dismiss="modal">إلغاء</button>
+                                    <a href="/admin/exams/delete/<?php echo $exam['id']; ?>" class="neo-btn neo-btn-danger">حذف</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <?php endforeach; ?>
+            <?php endif; ?>
             
             <!-- Pagination -->
             <?php if (isset($totalExams) && $totalExams > 0): ?>

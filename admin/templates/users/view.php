@@ -70,6 +70,22 @@
                             <th>تاريخ التسجيل</th>
                             <td><?php echo htmlspecialchars($user['created_at']); ?></td>
                         </tr>
+                        <tr>
+                            <th>الدورات المسجلة</th>
+                            <td>
+                                <span class="badge bg-primary">
+                                    <i class="fas fa-book me-1"></i> <?php echo isset($user['course_count']) ? $user['course_count'] : count($enrollments ?? []); ?>
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>الاختبارات المسجلة</th>
+                            <td>
+                                <span class="badge bg-warning">
+                                    <i class="fas fa-file-alt me-1"></i> <?php echo isset($user['exam_count']) ? $user['exam_count'] : 0; ?>
+                                </span>
+                            </td>
+                        </tr>
                     </table>
                 </div>
                 <div class="col-md-4">

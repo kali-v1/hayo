@@ -140,25 +140,6 @@
                                             <i class="fas fa-trash"></i>
                                         </a>
                                     </div>
-                                    
-                                    <!-- Delete Modal -->
-                                    <div class="modal fade" id="deleteModal<?php echo $course['id']; ?>" tabindex="-1" aria-labelledby="deleteModalLabel<?php echo $course['id']; ?>" aria-hidden="true">
-                                        <div class="modal-dialog">
-                                            <div class="modal-content neo-card">
-                                                <div class="modal-header">
-                                                    <h5 class="modal-title" id="deleteModalLabel<?php echo $course['id']; ?>">تأكيد الحذف</h5>
-                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                                                </div>
-                                                <div class="modal-body">
-                                                    هل أنت متأكد من حذف الدورة <strong><?php echo htmlspecialchars($course['title']); ?></strong>؟
-                                                </div>
-                                                <div class="modal-footer">
-                                                    <button type="button" class="neo-btn neo-btn-secondary" data-bs-dismiss="modal">إلغاء</button>
-                                                    <a href="/admin/courses/delete/<?php echo $course['id']; ?>" class="neo-btn neo-btn-danger">حذف</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </td>
                             </tr>
                             <?php endforeach; ?>
@@ -166,6 +147,30 @@
                     </tbody>
                 </table>
             </div>
+            
+            <!-- Delete Modals -->
+            <?php if (!empty($courses)): ?>
+                <?php foreach ($courses as $course): ?>
+                    <!-- Delete Modal for Course <?php echo $course['id']; ?> -->
+                    <div class="modal fade" id="deleteModal<?php echo $course['id']; ?>" tabindex="-1" aria-labelledby="deleteModalLabel<?php echo $course['id']; ?>" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content neo-card">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="deleteModalLabel<?php echo $course['id']; ?>">تأكيد الحذف</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    هل أنت متأكد من حذف الدورة <strong><?php echo htmlspecialchars($course['title']); ?></strong>؟
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="neo-btn neo-btn-secondary" data-bs-dismiss="modal">إلغاء</button>
+                                    <a href="/admin/courses/delete/<?php echo $course['id']; ?>" class="neo-btn neo-btn-danger">حذف</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <?php endforeach; ?>
+            <?php endif; ?>
             
             <!-- Pagination -->
             <?php if (isset($totalCourses) && $totalCourses > 0): ?>

@@ -243,13 +243,13 @@ class AdminCoursesController {
         ob_start();
         
         // Include the content view
-        include ADMIN_APP_ROOT . '/templates/courses/index.php';
+        include ADMIN_ROOT . '/templates/courses/index.php';
         
         // Get the content
         $contentView = ob_get_clean();
         
         // Include the layout
-        include ADMIN_APP_ROOT . '/templates/layout.php';
+        include ADMIN_ROOT . '/templates/layout.php';
     }
     
     /**
@@ -315,13 +315,13 @@ class AdminCoursesController {
         ob_start();
         
         // Include the content view
-        include ADMIN_APP_ROOT . '/templates/courses/create.php';
+        include ADMIN_ROOT . '/templates/courses/create.php';
         
         // Get the content
         $contentView = ob_get_clean();
         
         // Include the layout
-        include ADMIN_APP_ROOT . '/templates/layout.php';
+        include ADMIN_ROOT . '/templates/layout.php';
     }
     
     /**
@@ -670,13 +670,13 @@ class AdminCoursesController {
         ob_start();
         
         // Include the content view
-        include ADMIN_APP_ROOT . '/templates/courses/view.php';
+        include ADMIN_ROOT . '/templates/courses/view.php';
         
         // Get the content
         $contentView = ob_get_clean();
         
         // Include the layout
-        include ADMIN_APP_ROOT . '/templates/layout.php';
+        include ADMIN_ROOT . '/templates/layout.php';
     }
     
     /**
@@ -785,13 +785,13 @@ class AdminCoursesController {
         ob_start();
         
         // Include the content view
-        include ADMIN_APP_ROOT . '/templates/courses/edit.php';
+        include ADMIN_ROOT . '/templates/courses/edit.php';
         
         // Get the content
         $contentView = ob_get_clean();
         
         // Include the layout
-        include ADMIN_APP_ROOT . '/templates/layout.php';
+        include ADMIN_ROOT . '/templates/layout.php';
     }
     
     /**

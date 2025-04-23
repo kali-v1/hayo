@@ -347,67 +347,7 @@
                     </div>
                 </div>
                 
-                <!-- Search and Filter Form -->
-                <div class="mb-4">
-                    <form action="/admin" method="GET" id="activity-filter-form">
-                        <div class="neo-card p-3 mb-3">
-                            <div class="row g-3">
-                                <div class="col-md-3">
-                                    <label class="form-label small fw-bold">اسم المستخدم</label>
-                                    <div class="input-group">
-                                        <span class="input-group-text"><i class="fas fa-user"></i></span>
-                                        <input type="text" name="admin_username" class="form-control" placeholder="بحث..." value="">
-                                    </div>
-                                </div>
-                                <div class="col-md-3">
-                                    <label class="form-label small fw-bold">نوع النشاط</label>
-                                    <select name="action" class="form-select">
-                                        <option value="">الكل</option>
-                                        <option value="login">تسجيل دخول</option>
-                                        <option value="logout">تسجيل خروج</option>
-                                        <option value="add">إضافة</option>
-                                        <option value="update">تعديل</option>
-                                        <option value="delete">حذف</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-3">
-                                    <label class="form-label small fw-bold">القسم</label>
-                                    <select name="section" class="form-select">
-                                        <option value="">الكل</option>
-                                        <option value="auth">المصادقة</option>
-                                        <option value="users">المستخدمين</option>
-                                        <option value="courses">الدورات</option>
-                                        <option value="exams">الاختبارات</option>
-                                        <option value="questions">الأسئلة</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-3">
-                                    <label class="form-label small fw-bold">الفترة الزمنية</label>
-                                    <div class="d-flex">
-                                        <div class="input-group me-2">
-                                            <span class="input-group-text"><i class="fas fa-calendar-alt"></i></span>
-                                            <input type="date" name="date_from" class="form-control" placeholder="من" value="">
-                                        </div>
-                                        <div class="input-group">
-                                            <span class="input-group-text"><i class="fas fa-calendar-alt"></i></span>
-                                            <input type="date" name="date_to" class="form-control" placeholder="إلى" value="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row mt-3">
-                                <div class="col-12 d-flex justify-content-end">
-                                    <button type="reset" class="neo-btn neo-btn-secondary me-2">
-                                        <i class="fas fa-redo"></i> إعادة تعيين
-                                    </button>
-                                    <button type="submit" class="neo-btn neo-btn-primary">
-                                        <i class="fas fa-search"></i> بحث
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </form>
-                </div>
+                <!-- Activity Log Section -->
                 
                 <div class="activity-log-container">
                     <?php if (isset($adminActivityError)): ?>
@@ -559,54 +499,7 @@
                     </div>
                     <?php endif; ?>
                     
-                    <script>
-                    // JavaScript لتفعيل نموذج البحث والتصفية في قسم "آخر النشاطات"
-                    document.addEventListener('DOMContentLoaded', function() {
-                        // نموذج البحث والتصفية
-                        const activityFilterForm = document.getElementById('activity-filter-form');
-                        if (activityFilterForm) {
-                            // زر إعادة التعيين
-                            const resetButton = activityFilterForm.querySelector('button[type="reset"]');
-                            if (resetButton) {
-                                resetButton.addEventListener('click', function(e) {
-                                    e.preventDefault();
-                                    // إعادة تعيين جميع الحقول
-                                    const inputs = activityFilterForm.querySelectorAll('input, select');
-                                    inputs.forEach(input => {
-                                        if (input.type === 'text' || input.type === 'date') {
-                                            input.value = '';
-                                        } else if (input.tagName === 'SELECT') {
-                                            input.selectedIndex = 0;
-                                        }
-                                    });
-                                    
-                                    // إعادة تحميل الصفحة بدون معلمات البحث
-                                    window.location.href = window.location.pathname;
-                                });
-                            }
-                            
-                            // تفعيل البحث
-                            activityFilterForm.addEventListener('submit', function(e) {
-                                e.preventDefault();
-                                
-                                // جمع معلمات البحث
-                                const formData = new FormData(activityFilterForm);
-                                const searchParams = new URLSearchParams();
-                                
-                                // إضافة المعلمات غير الفارغة فقط
-                                for (const [key, value] of formData.entries()) {
-                                    if (value.trim() !== '') {
-                                        searchParams.append(key, value);
-                                    }
-                                }
-                                
-                                // إعادة تحميل الصفحة مع معلمات البحث
-                                const queryString = searchParams.toString();
-                                window.location.href = window.location.pathname + (queryString ? '?' + queryString : '');
-                            });
-                        }
-                    });
-                    </script>
+                    <!-- Activity log table is displayed above -->
                 </div>
             </div>
         </div>

@@ -1,0 +1,18 @@
+# Admin panel .htaccess file
+
+# Prevent directory listing
+Options -Indexes
+
+# Prevent direct access to PHP files in includes, classes, etc.
+RewriteRule ^(includes|classes|templates)/.*\.php$ - [F,L]
+
+# Set default character set
+AddDefaultCharset UTF-8
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

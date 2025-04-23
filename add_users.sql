@@ -1,0 +1,22 @@
+-- إضافة 20 مستخدم إضافي لقاعدة البيانات
+INSERT INTO users (username, email, password, first_name, last_name, is_active, created_at, updated_at) VALUES
+('user1', 'user1@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'أحمد', 'محمد', 1, NOW(), NOW()),
+('user2', 'user2@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'محمد', 'أحمد', 1, NOW(), NOW()),
+('user3', 'user3@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'علي', 'حسن', 1, NOW(), NOW()),
+('user4', 'user4@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'فاطمة', 'محمود', 0, NOW(), NOW()),
+('user5', 'user5@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'خالد', 'عبدالله', 1, NOW(), NOW()),
+('user6', 'user6@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'سارة', 'أحمد', 1, NOW(), NOW()),
+('user7', 'user7@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'عمر', 'فاروق', 0, NOW(), NOW()),
+('user8', 'user8@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'نورا', 'سعيد', 1, NOW(), NOW()),
+('user9', 'user9@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'حسن', 'علي', 1, NOW(), NOW()),
+('user10', 'user10@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'ليلى', 'محمد', 1, NOW(), NOW()),
+('user11', 'user11@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'يوسف', 'إبراهيم', 1, NOW(), NOW()),
+('user12', 'user12@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'رانيا', 'خالد', 0, NOW(), NOW()),
+('user13', 'user13@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'كريم', 'محمود', 1, NOW(), NOW()),
+('user14', 'user14@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'هدى', 'سامي', 1, NOW(), NOW()),
+('user15', 'user15@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'سامي', 'حسين', 1, NOW(), NOW()),
+('user16', 'user16@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'منى', 'عادل', 0, NOW(), NOW()),
+('user17', 'user17@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'طارق', 'جمال', 1, NOW(), NOW()),
+('user18', 'user18@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'دينا', 'محمد', 1, NOW(), NOW()),
+('user19', 'user19@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'أيمن', 'سعد', 1, NOW(), NOW()),
+('user20', 'user20@example.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'سلمى', 'عمر', 0, NOW(), NOW());

@@ -1,0 +1,4875 @@
+Login attempt at 2025-04-17 15:48:37
+Username: admin
+Remember: Yes
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => y2.ZPQGeU2vEsY.FBJsNwK/5FTo8m9nvR92sv5i
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 15:35:10
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 15:49:24
+Username: admin
+Remember: Yes
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 15:49:19
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 15:49:42
+Username: admin
+Remember: Yes
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 15:49:25
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 15:49:25
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 15:50:10
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 15:49:42
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 15:49:42
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 15:53:52
+Username: admin
+Remember: Yes
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 15:50:11
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 15:50:11
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 15:57:12
+Username: admin
+Remember: Yes
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 15:53:52
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 15:53:52
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 15:58:23
+Username: admin
+Remember: Yes
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 15:57:13
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 15:57:13
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:00:33
+Username: admin
+Remember: Yes
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 15:58:23
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 15:58:23
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:09:15
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:00:33
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:00:33
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:15:05
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:09:15
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:09:15
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:19:08
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:15:05
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:15:05
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:28:09
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:19:08
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:19:08
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:40:13
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:28:10
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:28:10
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:42:14
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:40:13
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:40:13
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:44:08
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:42:14
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:42:14
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:55:03
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:44:08
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:44:08
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 16:59:40
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:55:03
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:55:03
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 17:04:53
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 16:59:40
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 16:59:40
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 17:05:17
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 17:04:53
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 17:04:53
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 17:07:34
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2b$12$1DJ21RKv5l/FcoatyJ.UPOUtnUt9ZPz8JAwkcKb/KW3V8UTXOZLUS
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 17:05:17
+    [created_at] => 2025-04-17 15:34:58
+    [updated_at] => 2025-04-17 17:05:17
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 18:07:00
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 18:07:14
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 18:07:27
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 18:07:44
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 18:08:22
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 18:08:44
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 18:10:55
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 18:10:26
+    [updated_at] => 2025-04-17 18:10:26
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 18:11:04
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 18:10:56
+    [created_at] => 2025-04-17 18:10:26
+    [updated_at] => 2025-04-17 18:10:56
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 19:43:47
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 19:39:50
+    [updated_at] => 2025-04-17 19:39:50
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 19:56:49
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 19:43:48
+    [created_at] => 2025-04-17 19:39:50
+    [updated_at] => 2025-04-17 19:43:48
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 19:58:21
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 19:56:49
+    [created_at] => 2025-04-17 19:39:50
+    [updated_at] => 2025-04-17 19:56:49
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 20:53:38
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 19:58:22
+    [created_at] => 2025-04-17 19:39:50
+    [updated_at] => 2025-04-17 19:58:22
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 20:56:43
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 20:53:39
+    [created_at] => 2025-04-17 19:39:50
+    [updated_at] => 2025-04-17 20:53:39
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 21:06:49
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:06:55
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:07:30
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:07:42
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:08:17
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:08:18
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:08:41
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:08:56
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:09:48
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:09:56
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:11:07
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:11:10
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:11:28
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 16:20:28
+    [updated_at] => 2025-04-18 00:11:02
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 21:21:36
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:21:53
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:22:08
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:22:22
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:22:30
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:23:12
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-17 21:24:58
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 21:27:33
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 21:24:58
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:24:58
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 22:37:01
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 21:27:34
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:27:34
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 22:38:51
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 22:37:02
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 22:37:02
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 23:00:02
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 21:27:34
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:27:34
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 23:08:47
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 21:27:34
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:27:34
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 23:11:33
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 23:08:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 23:08:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 23:17:44
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 23:11:34
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 23:11:34
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 23:34:24
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 21:27:34
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:27:34
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 23:37:28
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 21:27:34
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:27:34
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-17 23:47:57
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 23:37:28
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 23:37:28
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-18 00:15:59
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 21:27:34
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:27:34
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-18 00:23:50
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:15:59
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:15:59
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-18 00:30:46
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:23:50
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:23:50
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-18 07:43:31
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-18 07:43:47
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-18 11:42:13
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-17 21:27:34
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:27:34
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 12:02:19
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:02:32
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:02:45
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:02:57
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:03:29
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:03:44
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:04:11
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:04:29
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:05:23
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:05:35
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:07:46
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:09:13
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:09:36
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:09:42
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:11:01
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:11:01
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:11:04
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:11:45
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:11:47
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:12:32
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 12:12:49
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 12:14:21
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 12:12:50
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 12:12:50
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 12:21:52
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 12:14:22
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 12:14:22
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 12:50:42
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 12:51:20
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 18:29:37
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 18:32:40
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 18:39:18
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 19:21:38
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 19:21:38
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 19:21:38
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 19:21:38
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 22:25:10
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 22:25:29
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 22:25:10
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 22:25:10
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-19 23:02:37
+Username: instructor@example.com
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 23:02:44
+Username: instructor@example.com
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 23:02:54
+Username: instructor@example.com
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 23:03:06
+Username: instructor@example.com
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-19 23:15:05
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$10$AAlK83OcrLhUxr4IfNBhbeNg9H.3cf7rsZXET.sP0LNyiv2W2talu
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 23:03:00
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 04:42:22
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 04:48:52
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 04:42:23
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 04:42:23
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 05:08:04
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 05:28:31
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 05:08:04
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 05:08:04
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 05:34:15
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 04:48:52
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 04:48:52
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 05:51:04
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 06:37:16
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 06:38:52
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 06:37:17
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 06:37:17
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 06:40:11
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 06:40:32
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 07:31:19
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 06:40:12
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 06:40:12
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 08:10:27
+Username: admin
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-20 08:19:09
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 08:19:29
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 08:19:10
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 08:19:10
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 08:19:46
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 08:19:30
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 08:19:30
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 08:20:04
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 08:19:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 08:19:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 08:20:35
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 08:20:04
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 08:20:04
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 08:46:20
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-18 00:30:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-18 00:30:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 08:47:13
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 08:20:36
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 08:20:36
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 08:48:24
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 08:46:20
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 08:46:20
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 08:51:29
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 08:47:13
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 08:47:13
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 19:24:56
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 19:25:49
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 19:24:57
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 19:24:57
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 19:55:22
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 19:25:50
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 19:25:50
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 19:59:01
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 19:55:23
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 19:55:23
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 20:02:19
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 19:59:02
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 19:59:02
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 20:08:13
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 20:09:47
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 20:08:13
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 20:08:13
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 20:24:37
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 18:39:18
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 21:39:18
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 20:24:57
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 20:02:20
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 20:02:20
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 21:07:51
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 21:09:09
+Username: data_entry
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-20 21:09:30
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 21:10:53
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 21:09:31
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 21:09:31
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 23:21:45
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-20 23:40:39
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-20 23:21:46
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-20 23:21:46
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 00:32:39
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 00:46:33
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 00:32:39
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 00:32:39
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 01:27:50
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 00:46:33
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 00:46:33
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 02:35:43
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 01:27:51
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 01:27:51
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 02:36:01
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 01:27:51
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 01:27:51
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 02:42:32
+Username: التالات
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, redirecting with error
+Login attempt at 2025-04-21 02:45:19
+Username: hjggjhghj
+Remember: No
+Admin not found in database
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 02:45:30
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 02:36:02
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 02:36:02
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 03:37:23
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-17 21:20:35
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 03:39:50
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 03:37:23
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 03:37:23
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 03:52:47
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 18:39:18
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 21:39:18
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 03:52:57
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 18:39:18
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 21:39:18
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 03:53:04
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 18:39:18
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 21:39:18
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 03:53:12
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 18:39:18
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 21:39:18
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 03:55:01
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 18:39:18
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-19 21:39:18
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 03:55:26
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$ff72bOqR6xQ9P7rcSx.J2eI12yo4EKGV7f4hNVKCSE3jGv5fJ/lOC
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 02:45:31
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 02:45:31
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 04:01:56
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$N1MVCystt1QKYPFxoFc9JOEy3T2JprCdRRXnMhi01PYXn2h7xjfki
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 03:39:51
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 03:57:19
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 04:03:11
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$WfvwLPnXXyuirbR95hqA9.qKEznj6IfWrbIFW0fPXeLHv144HtTl6
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 18:39:18
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 03:59:06
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 04:06:17
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-19 18:39:18
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 04:04:03
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 04:07:54
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$hdQwpr2cHsrIuii4atL8Zu2EijOEBuq1dp.pudZPjHIVMVdtENIeW
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 03:39:51
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 04:04:16
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-21 04:08:12
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$hdQwpr2cHsrIuii4atL8Zu2EijOEBuq1dp.pudZPjHIVMVdtENIeW
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 03:39:51
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 04:04:16
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 04:12:24
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$hdQwpr2cHsrIuii4atL8Zu2EijOEBuq1dp.pudZPjHIVMVdtENIeW
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 04:08:13
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 04:08:13
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 04:25:54
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$hdQwpr2cHsrIuii4atL8Zu2EijOEBuq1dp.pudZPjHIVMVdtENIeW
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 04:12:24
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 04:12:24
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 05:38:48
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 04:06:17
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 04:06:17
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 05:44:17
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 05:38:49
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 05:38:49
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 06:21:22
+Username: dataentry
+Remember: No
+Admin found in database: Array
+(
+    [id] => 3
+    [username] => dataentry
+    [email] => dataentry@example.com
+    [password] => $2y$12$/6vFWokm2ENL17rdKp9kpOSyWmIqNHyK2xicZhDdMPJbg3SXVDhMi
+    [name] => Data Entry User
+    [role] => data_entry
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 02:45:31
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 04:04:46
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 3
+    [admin_username] => dataentry
+    [admin_email] => dataentry@example.com
+    [admin_name] => Data Entry User
+    [admin_role] => data_entry
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-21 06:21:44
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 05:44:18
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 05:44:18
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 14:52:05
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 04:06:17
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 04:06:17
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 14:52:38
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 14:52:06
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 14:52:06
+)
+
+Password verification result: Failed
+Login result: Failed
+Login failed, showing error
+Login attempt at 2025-04-22 14:52:44
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 14:52:06
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 14:52:06
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 15:24:42
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 14:52:44
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 14:52:44
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 15:38:29
+Username: instructor
+Remember: No
+Admin found in database: Array
+(
+    [id] => 2
+    [username] => instructor
+    [email] => instructor@example.com
+    [password] => $2y$12$hdQwpr2cHsrIuii4atL8Zu2EijOEBuq1dp.pudZPjHIVMVdtENIeW
+    [name] => Instructor User
+    [role] => instructor
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-21 04:25:54
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-21 04:25:54
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 2
+    [admin_username] => instructor
+    [admin_email] => instructor@example.com
+    [admin_name] => Instructor User
+    [admin_role] => instructor
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 15:38:46
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 15:24:43
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 15:24:43
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 17:06:38
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 15:38:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 16:45:19
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 18:55:39
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 17:06:39
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 17:06:39
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 18:55:46
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 18:55:39
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 18:55:39
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 18:58:01
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 18:55:47
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 18:55:47
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 20:40:52
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 17:06:39
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 17:06:39
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-22 20:41:22
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 20:40:53
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 20:40:53
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-23 08:32:55
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 17:06:39
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 17:06:39
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-23 08:51:01
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-22 17:06:39
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-22 17:06:39
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-23 08:59:31
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-23 08:51:02
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-23 08:51:02
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+
+Login attempt at 2025-04-23 09:01:08
+Username: admin
+Remember: No
+Admin found in database: Array
+(
+    [id] => 1
+    [username] => admin
+    [email] => admin1@example.com
+    [password] => $2y$12$uPQ0FPMokqH5wANZeAfZeu58BGBUnE0Fydr8gapH2MZo5nSW9N0yO
+    [name] => Admin User
+    [role] => admin
+    [profile_image] => 
+    [is_active] => 1
+    [last_login] => 2025-04-23 08:59:31
+    [created_at] => 2025-04-17 21:20:35
+    [updated_at] => 2025-04-23 08:59:31
+)
+
+Password verification result: Success
+Login result: Success
+Flash message set, redirecting to dashboard
+Session data: Array
+(
+    [admin_id] => 1
+    [admin_username] => admin
+    [admin_email] => admin1@example.com
+    [admin_name] => Admin User
+    [admin_role] => admin
+    [flash_message] => Array
+        (
+            [message] => تم تسجيل الدخول بنجاح
+            [type] => success
+        )
+
+)
+

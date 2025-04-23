@@ -1,0 +1,361 @@
+/* RTL Specific Styles */
+
+body {
+    text-align: right;
+    direction: rtl;
+}
+
+/* Fix for Bootstrap RTL issues */
+html[dir="rtl"] body {
+    text-align: right;
+    direction: rtl;
+}
+
+.dropdown-menu-end {
+    right: auto !important;
+    left: 0 !important;
+}
+
+.ms-auto {
+    margin-right: auto !important;
+    margin-left: 0 !important;
+}
+
+.me-auto {
+    margin-left: auto !important;
+    margin-right: 0 !important;
+}
+
+.me-2 {
+    margin-left: 0.5rem !important;
+    margin-right: 0 !important;
+}
+
+.ms-2 {
+    margin-right: 0.5rem !important;
+    margin-left: 0 !important;
+}
+
+.me-3 {
+    margin-left: 1rem !important;
+    margin-right: 0 !important;
+}
+
+.ms-3 {
+    margin-right: 1rem !important;
+    margin-left: 0 !important;
+}
+
+.text-md-end {
+    text-align: left !important;
+}
+
+.text-md-start {
+    text-align: right !important;
+}
+
+.float-end {
+    float: left !important;
+}
+
+.float-start {
+    float: right !important;
+}
+
+/* Form Controls */
+.form-check {
+    padding-right: 1.5em;
+    padding-left: 0;
+}
+
+.form-check .form-check-input {
+    float: right;
+    margin-right: -1.5em;
+    margin-left: 0;
+}
+
+/* Pagination */
+.pagination {
+    padding-right: 0;
+}
+
+/* List Groups */
+.list-group {
+    padding-right: 0;
+}
+
+/* Input Groups */
+.input-group > :not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+    margin-right: -1px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}
+
+.input-group:not(.has-validation) > :not(:last-child):not(.dropdown-toggle):not(.dropdown-menu),
+.input-group:not(.has-validation) > .dropdown-toggle:nth-last-child(n+3) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
+
+.input-group > :first-child {
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.input-group > :last-child {
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+/* Modal */
+.modal-header .btn-close {
+    margin: -0.5rem auto -0.5rem -0.5rem;
+}
+
+/* Alerts */
+.alert-dismissible {
+    padding-right: 1rem;
+    padding-left: 3rem;
+}
+
+.alert-dismissible .btn-close {
+    left: 0;
+    right: auto;
+}
+
+/* Breadcrumb */
+.breadcrumb-item + .breadcrumb-item {
+    padding-right: 0.5rem;
+    padding-left: 0;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    float: right;
+    padding-left: 0.5rem;
+    padding-right: 0;
+}
+
+/* Dropdown */
+.dropdown-menu {
+    text-align: right;
+}
+
+/* Card */
+.card-header {
+    text-align: right;
+}
+
+/* Accordion */
+.accordion-button::after {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+/* Progress */
+.progress-bar {
+    float: right;
+}
+
+/* Navbar */
+.navbar-nav {
+    padding-right: 0;
+}
+
+/* Header RTL Styles - Only direction changes */
+html[dir="rtl"] .navbar-brand {
+    margin-right: 0;
+    margin-left: 2rem;
+}
+
+html[dir="rtl"] .navbar-brand:hover {
+    transform: translate(2px, -2px);
+    box-shadow: -6px 6px 0 #000;
+}
+
+html[dir="rtl"] .nav-link::after {
+    left: auto;
+    right: 0;
+}
+
+/* Fix navbar alignment in RTL */
+html[dir="rtl"] .navbar-nav {
+    padding-right: 0;
+}
+
+/* Fix header height in RTL */
+html[dir="rtl"] .header {
+    height: 70px !important;
+    min-height: 70px !important;
+    max-height: 70px !important;
+}
+
+html[dir="rtl"] .navbar {
+    height: 70px !important;
+    min-height: 70px !important;
+    max-height: 70px !important;
+}
+
+/* Fix navbar items alignment in RTL */
+html[dir="rtl"] .navbar-nav .nav-item {
+    display: flex;
+    align-items: center;
+}
+
+/* Fix dropdown alignment in RTL */
+html[dir="rtl"] .dropdown-menu {
+    right: auto;
+    left: 0;
+}
+
+/* Fix navbar brand size in RTL */
+html[dir="rtl"] .navbar-brand span {
+    max-width: 150px;
+}
+
+/* Fix navbar toggler in RTL */
+html[dir="rtl"] .navbar-toggler {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+/* Offcanvas */
+.offcanvas-start {
+    right: 0;
+    left: auto;
+    transform: translateX(100%);
+}
+
+.offcanvas-end {
+    left: 0;
+    right: auto;
+    transform: translateX(-100%);
+}
+
+/* Tooltip */
+.tooltip {
+    text-align: right;
+}
+
+/* Popover */
+.popover {
+    text-align: right;
+}
+
+/* Toast */
+.toast {
+    text-align: right;
+}
+
+/* Badge */
+.badge {
+    margin-right: 0;
+    margin-left: 0.5em;
+}
+
+/* Carousel */
+.carousel-control-prev {
+    right: 0;
+    left: auto;
+}
+
+.carousel-control-next {
+    left: 0;
+    right: auto;
+}
+
+.carousel-indicators {
+    padding-right: 0;
+}
+
+/* List */
+ul, ol {
+    padding-right: 2rem;
+    padding-left: 0;
+}
+
+/* Table */
+.table {
+    text-align: right;
+}
+
+/* Pagination */
+.page-item:first-child .page-link {
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.page-item:last-child .page-link {
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+/* Buttons */
+.btn-group > .btn:not(:first-child),
+.btn-group > .btn-group:not(:first-child) > .btn {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}
+
+.btn-group > .btn:not(:last-child):not(.dropdown-toggle),
+.btn-group > .btn-group:not(:last-child) > .btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
+
+/* Fix for Neo Brutalism elements in RTL */
+html[dir="rtl"] .brutalism-card {
+    box-shadow: -5px 5px 0 #000;
+}
+
+html[dir="rtl"] .brutalism-card:hover {
+    transform: translate(2px, -2px);
+    box-shadow: -7px 7px 0 #000;
+}
+
+/* Fix for Font Awesome icons in RTL */
+html[dir="rtl"] .me-1 .fa, 
+html[dir="rtl"] .me-1 .fas, 
+html[dir="rtl"] .me-1 .far, 
+html[dir="rtl"] .me-1 .fab {
+    margin-right: 0;
+    margin-left: 0.25rem;
+}
+
+html[dir="rtl"] .me-2 .fa, 
+html[dir="rtl"] .me-2 .fas, 
+html[dir="rtl"] .me-2 .far, 
+html[dir="rtl"] .me-2 .fab {
+    margin-right: 0;
+    margin-left: 0.5rem;
+}
+
+/* Fix for Bootstrap buttons in RTL */
+html[dir="rtl"] .btn-group > .btn:not(:last-child):not(.dropdown-toggle) {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
+
+html[dir="rtl"] .btn-group > .btn:not(:first-child) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}

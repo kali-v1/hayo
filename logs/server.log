@@ -1,0 +1,446 @@
+[Thu Apr 17 15:47:19 2025] PHP 8.2.28 Development Server (http://0.0.0.0:12000) started
+[Thu Apr 17 15:47:20 2025] 10.2.10.140:42852 Accepted
+[Thu Apr 17 15:47:20 2025] 10.2.10.140:42852 [200]: GET /
+[Thu Apr 17 15:47:20 2025] 10.2.10.140:42852 Closing
+[Thu Apr 17 15:47:23 2025] 10.2.10.140:42858 Accepted
+[Thu Apr 17 15:47:23 2025] 10.2.10.140:42858 [200]: GET /
+[Thu Apr 17 15:47:23 2025] 10.2.10.140:42858 Closing
+[Thu Apr 17 15:47:26 2025] 10.2.10.140:42860 Accepted
+[Thu Apr 17 15:47:26 2025] 10.2.10.140:42860 [200]: GET /
+[Thu Apr 17 15:47:26 2025] 10.2.10.140:42860 Closing
+[Thu Apr 17 15:47:29 2025] 10.2.10.140:48928 Accepted
+[Thu Apr 17 15:47:29 2025] 10.2.10.140:48928 [200]: GET /
+[Thu Apr 17 15:47:29 2025] 10.2.10.140:48928 Closing
+[Thu Apr 17 15:47:32 2025] 10.2.10.140:48936 Accepted
+[Thu Apr 17 15:47:32 2025] 10.2.10.140:48936 [200]: GET /
+[Thu Apr 17 15:47:32 2025] 10.2.10.140:48936 Closing
+[Thu Apr 17 15:47:36 2025] 10.2.10.140:48938 Accepted
+[Thu Apr 17 15:47:36 2025] 10.2.10.140:48938 [200]: GET /
+[Thu Apr 17 15:47:36 2025] 10.2.10.140:48938 Closing
+[Thu Apr 17 15:47:39 2025] 10.2.10.140:50666 Accepted
+[Thu Apr 17 15:47:39 2025] 10.2.10.140:50666 [200]: GET /
+[Thu Apr 17 15:47:39 2025] 10.2.10.140:50666 Closing
+[Thu Apr 17 15:47:42 2025] 10.2.10.140:50668 Accepted
+[Thu Apr 17 15:47:42 2025] 10.2.10.140:50668 [200]: GET /
+[Thu Apr 17 15:47:42 2025] 10.2.10.140:50668 Closing
+[Thu Apr 17 15:47:45 2025] 10.2.10.140:50678 Accepted
+[Thu Apr 17 15:47:45 2025] 10.2.10.140:50678 [200]: GET /
+[Thu Apr 17 15:47:45 2025] 10.2.10.140:50678 Closing
+[Thu Apr 17 15:47:48 2025] 10.2.10.140:50688 Accepted
+[Thu Apr 17 15:47:48 2025] 10.2.10.140:50688 [200]: GET /
+[Thu Apr 17 15:47:48 2025] 10.2.10.140:50688 Closing
+[Thu Apr 17 15:47:52 2025] 10.2.10.140:37442 Accepted
+[Thu Apr 17 15:47:52 2025] 10.2.10.140:37442 [200]: GET /
+[Thu Apr 17 15:47:52 2025] 10.2.10.140:37442 Closing
+[Thu Apr 17 15:47:55 2025] 10.2.10.140:37450 Accepted
+[Thu Apr 17 15:47:55 2025] 10.2.10.140:37450 [200]: GET /
+[Thu Apr 17 15:47:55 2025] 10.2.10.140:37450 Closing
+[Thu Apr 17 15:47:58 2025] 10.2.10.140:37460 Accepted
+[Thu Apr 17 15:47:58 2025] 10.2.10.140:37460 [200]: GET /
+[Thu Apr 17 15:47:58 2025] 10.2.10.140:37460 Closing
+[Thu Apr 17 15:48:01 2025] 10.2.10.140:54052 Accepted
+[Thu Apr 17 15:48:01 2025] 10.2.10.140:54052 [200]: GET /
+[Thu Apr 17 15:48:01 2025] 10.2.10.140:54052 Closing
+[Thu Apr 17 15:48:04 2025] 10.2.10.140:54062 Accepted
+[Thu Apr 17 15:48:04 2025] 10.2.10.140:54062 [200]: GET /
+[Thu Apr 17 15:48:04 2025] 10.2.10.140:54062 Closing
+[Thu Apr 17 15:48:08 2025] 10.2.10.140:54074 Accepted
+[Thu Apr 17 15:48:08 2025] 10.2.10.140:54074 [200]: GET /
+[Thu Apr 17 15:48:08 2025] 10.2.10.140:54074 Closing
+[Thu Apr 17 15:48:11 2025] 10.2.10.140:44592 Accepted
+[Thu Apr 17 15:48:11 2025] 10.2.10.140:44592 [200]: GET /
+[Thu Apr 17 15:48:11 2025] 10.2.10.140:44592 Closing
+[Thu Apr 17 15:48:14 2025] 10.2.10.140:44596 Accepted
+[Thu Apr 17 15:48:14 2025] 10.2.10.140:44596 [200]: GET /
+[Thu Apr 17 15:48:14 2025] 10.2.10.140:44596 Closing
+[Thu Apr 17 15:48:17 2025] 10.2.10.140:44612 Accepted
+[Thu Apr 17 15:48:17 2025] 10.2.10.140:44612 [200]: GET /
+[Thu Apr 17 15:48:17 2025] 10.2.10.140:44612 Closing
+[Thu Apr 17 15:48:20 2025] 10.2.10.140:40974 Accepted
+[Thu Apr 17 15:48:20 2025] 10.2.10.140:40974 [200]: GET /
+[Thu Apr 17 15:48:20 2025] 10.2.10.140:40974 Closing
+[Thu Apr 17 15:48:24 2025] 10.2.10.140:40990 Accepted
+[Thu Apr 17 15:48:24 2025] 10.2.10.140:40990 [200]: GET /
+[Thu Apr 17 15:48:24 2025] 10.2.10.140:40990 Closing
+[Thu Apr 17 15:48:27 2025] 10.2.10.140:40994 Accepted
+[Thu Apr 17 15:48:27 2025] 10.2.10.140:40994 [200]: GET /
+[Thu Apr 17 15:48:27 2025] 10.2.10.140:40994 Closing
+[Thu Apr 17 15:48:29 2025] 10.2.0.218:52034 Accepted
+[Thu Apr 17 15:48:29 2025] 10.2.0.218:52034 [200]: POST /admin/auth - Uncaught Error: Undefined constant "ROOT_PATH" in /workspace/Boo/admin/controllers/AdminAuthController.php:23
+Stack trace:
+#0 /workspace/Boo/classes/Router.php(170): AdminAuthController->login()
+#1 /workspace/Boo/classes/Router.php(99): Router->executeHandler()
+#2 /workspace/Boo/admin/index.php(122): Router->dispatch()
+#3 {main}
+  thrown in /workspace/Boo/admin/controllers/AdminAuthController.php on line 23
+[Thu Apr 17 15:48:29 2025] 10.2.0.218:52034 Closing
+[Thu Apr 17 15:48:30 2025] 10.2.10.140:41570 Accepted
+[Thu Apr 17 15:48:30 2025] 10.2.10.140:41570 [200]: GET /
+[Thu Apr 17 15:48:30 2025] 10.2.10.140:41570 Closing
+[Thu Apr 17 15:48:33 2025] 10.2.10.140:41576 Accepted
+[Thu Apr 17 15:48:33 2025] 10.2.10.140:41576 [200]: GET /
+[Thu Apr 17 15:48:33 2025] 10.2.10.140:41576 Closing
+[Thu Apr 17 15:48:36 2025] 10.2.10.140:41580 Accepted
+[Thu Apr 17 15:48:36 2025] 10.2.10.140:41580 [200]: GET /
+[Thu Apr 17 15:48:36 2025] 10.2.10.140:41580 Closing
+[Thu Apr 17 15:48:37 2025] 10.2.9.25:51842 Accepted
+[Thu Apr 17 15:48:37 2025] 10.2.9.25:51842 [200]: POST /admin/auth
+[Thu Apr 17 15:48:37 2025] 10.2.9.25:51842 Closing
+[Thu Apr 17 15:48:40 2025] 10.2.10.140:57322 Accepted
+[Thu Apr 17 15:48:40 2025] 10.2.10.140:57322 [200]: GET /
+[Thu Apr 17 15:48:40 2025] 10.2.10.140:57322 Closing
+[Thu Apr 17 15:48:43 2025] 10.2.10.140:57338 Accepted
+[Thu Apr 17 15:48:43 2025] 10.2.10.140:57338 [200]: GET /
+[Thu Apr 17 15:48:43 2025] 10.2.10.140:57338 Closing
+[Thu Apr 17 15:48:46 2025] 10.2.10.140:57350 Accepted
+[Thu Apr 17 15:48:46 2025] 10.2.10.140:57350 [200]: GET /
+[Thu Apr 17 15:48:46 2025] 10.2.10.140:57350 Closing
+[Thu Apr 17 15:48:49 2025] 10.2.10.140:37428 Accepted
+[Thu Apr 17 15:48:49 2025] 10.2.10.140:37428 [200]: GET /
+[Thu Apr 17 15:48:49 2025] 10.2.10.140:37428 Closing
+[Thu Apr 17 15:48:52 2025] 10.2.10.140:37444 Accepted
+[Thu Apr 17 15:48:52 2025] 10.2.10.140:37444 [200]: GET /
+[Thu Apr 17 15:48:52 2025] 10.2.10.140:37444 Closing
+[Thu Apr 17 15:48:56 2025] 10.2.10.140:37446 Accepted
+[Thu Apr 17 15:48:56 2025] 10.2.10.140:37446 [200]: GET /
+[Thu Apr 17 15:48:56 2025] 10.2.10.140:37446 Closing
+[Thu Apr 17 15:48:59 2025] 10.2.10.140:52990 Accepted
+[Thu Apr 17 15:48:59 2025] 10.2.10.140:52990 [200]: GET /
+[Thu Apr 17 15:48:59 2025] 10.2.10.140:52990 Closing
+[Thu Apr 17 15:49:02 2025] 10.2.10.140:52998 Accepted
+[Thu Apr 17 15:49:02 2025] 10.2.10.140:52998 [200]: GET /
+[Thu Apr 17 15:49:02 2025] 10.2.10.140:52998 Closing
+[Thu Apr 17 15:49:05 2025] 10.2.10.140:53000 Accepted
+[Thu Apr 17 15:49:05 2025] 10.2.10.140:53000 [200]: GET /
+[Thu Apr 17 15:49:05 2025] 10.2.10.140:53000 Closing
+[Thu Apr 17 15:49:08 2025] 10.2.10.140:53008 Accepted
+[Thu Apr 17 15:49:08 2025] 10.2.10.140:53008 [200]: GET /
+[Thu Apr 17 15:49:08 2025] 10.2.10.140:53008 Closing
+[Thu Apr 17 15:49:12 2025] 10.2.10.140:43496 Accepted
+[Thu Apr 17 15:49:12 2025] 10.2.10.140:43496 [200]: GET /
+[Thu Apr 17 15:49:12 2025] 10.2.10.140:43496 Closing
+[Thu Apr 17 15:49:15 2025] 10.2.10.140:43504 Accepted
+[Thu Apr 17 15:49:15 2025] 10.2.10.140:43504 [200]: GET /
+[Thu Apr 17 15:49:15 2025] 10.2.10.140:43504 Closing
+[Thu Apr 17 15:49:18 2025] 10.2.10.140:43506 Accepted
+[Thu Apr 17 15:49:18 2025] 10.2.10.140:43506 [200]: GET /
+[Thu Apr 17 15:49:18 2025] 10.2.10.140:43506 Closing
+[Thu Apr 17 15:49:21 2025] 10.2.10.140:58454 Accepted
+[Thu Apr 17 15:49:21 2025] 10.2.10.140:58454 [200]: GET /
+[Thu Apr 17 15:49:21 2025] 10.2.10.140:58454 Closing
+[Thu Apr 17 15:49:24 2025] 10.2.27.18:49424 Accepted
+[Thu Apr 17 15:49:25 2025] 10.2.27.18:49424 [302]: POST /admin/auth
+[Thu Apr 17 15:49:25 2025] 10.2.27.18:49424 Closing
+[Thu Apr 17 15:49:25 2025] 10.2.10.140:58456 Accepted
+[Thu Apr 17 15:49:25 2025] 10.2.10.140:58456 [200]: GET /
+[Thu Apr 17 15:49:25 2025] 10.2.10.140:58456 Closing
+[Thu Apr 17 15:49:28 2025] 10.2.10.140:58470 Accepted
+[Thu Apr 17 15:49:28 2025] 10.2.10.140:58470 [200]: GET /
+[Thu Apr 17 15:49:28 2025] 10.2.10.140:58470 Closing
+[Thu Apr 17 15:49:31 2025] 10.2.10.140:39742 Accepted
+[Thu Apr 17 15:49:31 2025] 10.2.10.140:39742 [200]: GET /
+[Thu Apr 17 15:49:31 2025] 10.2.10.140:39742 Closing
+[Thu Apr 17 15:49:32 2025] 10.2.9.25:45130 Accepted
+[Thu Apr 17 15:49:32 2025] 10.2.9.25:45130 [200]: GET /admin/login
+[Thu Apr 17 15:49:32 2025] 10.2.9.25:45130 Closing
+[Thu Apr 17 15:49:32 2025] 10.2.9.25:45140 Accepted
+[Thu Apr 17 15:49:32 2025] 10.2.9.25:45140 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:49:32 2025] 10.2.9.25:45140 Closing
+[Thu Apr 17 15:49:34 2025] 10.2.10.140:39754 Accepted
+[Thu Apr 17 15:49:34 2025] 10.2.10.140:39754 [200]: GET /
+[Thu Apr 17 15:49:34 2025] 10.2.10.140:39754 Closing
+[Thu Apr 17 15:49:38 2025] 10.2.10.140:39770 Accepted
+[Thu Apr 17 15:49:38 2025] 10.2.10.140:39770 [200]: GET /
+[Thu Apr 17 15:49:38 2025] 10.2.10.140:39770 Closing
+[Thu Apr 17 15:49:41 2025] 10.2.10.140:46534 Accepted
+[Thu Apr 17 15:49:41 2025] 10.2.10.140:46534 [200]: GET /
+[Thu Apr 17 15:49:41 2025] 10.2.10.140:46534 Closing
+[Thu Apr 17 15:49:42 2025] 10.2.9.25:47970 Accepted
+[Thu Apr 17 15:49:42 2025] 10.2.9.25:47970 [302]: POST /admin/auth
+[Thu Apr 17 15:49:42 2025] 10.2.9.25:47970 Closing
+[Thu Apr 17 15:49:42 2025] 10.2.9.25:47976 Accepted
+[Thu Apr 17 15:49:42 2025] 10.2.9.25:47976 [200]: GET /admin - Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ea.percentage' in 'SELECT' in /workspace/Boo/admin/controllers/AdminDashboardController.php:232
+Stack trace:
+#0 /workspace/Boo/admin/controllers/AdminDashboardController.php(232): PDO->prepare()
+#1 /workspace/Boo/classes/Router.php(170): AdminDashboardController->index()
+#2 /workspace/Boo/classes/Router.php(99): Router->executeHandler()
+#3 /workspace/Boo/admin/index.php(122): Router->dispatch()
+#4 {main}
+  thrown in /workspace/Boo/admin/controllers/AdminDashboardController.php on line 232
+[Thu Apr 17 15:49:42 2025] 10.2.9.25:47976 Closing
+[Thu Apr 17 15:49:44 2025] 10.2.10.140:46542 Accepted
+[Thu Apr 17 15:49:44 2025] 10.2.10.140:46542 [200]: GET /
+[Thu Apr 17 15:49:44 2025] 10.2.10.140:46542 Closing
+[Thu Apr 17 15:49:47 2025] 10.2.10.140:46546 Accepted
+[Thu Apr 17 15:49:47 2025] 10.2.10.140:46546 [200]: GET /
+[Thu Apr 17 15:49:47 2025] 10.2.10.140:46546 Closing
+[Thu Apr 17 15:49:50 2025] 10.2.10.140:43028 Accepted
+[Thu Apr 17 15:49:50 2025] 10.2.10.140:43028 [200]: GET /
+[Thu Apr 17 15:49:50 2025] 10.2.10.140:43028 Closing
+[Thu Apr 17 15:49:54 2025] 10.2.10.140:43042 Accepted
+[Thu Apr 17 15:49:54 2025] 10.2.10.140:43042 [200]: GET /
+[Thu Apr 17 15:49:54 2025] 10.2.10.140:43042 Closing
+[Thu Apr 17 15:49:57 2025] 10.2.10.140:43052 Accepted
+[Thu Apr 17 15:49:57 2025] 10.2.10.140:43052 [200]: GET /
+[Thu Apr 17 15:49:57 2025] 10.2.10.140:43052 Closing
+[Thu Apr 17 15:50:10 2025] 10.2.0.218:44520 Accepted
+[Thu Apr 17 15:50:11 2025] 10.2.0.218:44520 [302]: POST /admin/auth
+[Thu Apr 17 15:50:11 2025] 10.2.0.218:44520 Closing
+[Thu Apr 17 15:50:11 2025] 10.2.0.218:44522 Accepted
+[Thu Apr 17 15:50:11 2025] 10.2.0.218:44522 [200]: GET /admin - Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ea.percentage' in 'SELECT' in /workspace/Boo/admin/controllers/AdminDashboardController.php:232
+Stack trace:
+#0 /workspace/Boo/admin/controllers/AdminDashboardController.php(232): PDO->prepare()
+#1 /workspace/Boo/classes/Router.php(170): AdminDashboardController->index()
+#2 /workspace/Boo/classes/Router.php(99): Router->executeHandler()
+#3 /workspace/Boo/admin/index.php(122): Router->dispatch()
+#4 {main}
+  thrown in /workspace/Boo/admin/controllers/AdminDashboardController.php on line 232
+[Thu Apr 17 15:50:11 2025] 10.2.0.218:44522 Closing
+[Thu Apr 17 15:50:21 2025] 10.2.9.25:47094 Accepted
+[Thu Apr 17 15:50:21 2025] 10.2.9.25:47094 [200]: GET /admin/login
+[Thu Apr 17 15:50:21 2025] 10.2.9.25:47094 Closing
+[Thu Apr 17 15:50:21 2025] 10.2.9.25:47106 Accepted
+[Thu Apr 17 15:50:21 2025] 10.2.9.25:47106 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:50:21 2025] 10.2.9.25:47106 Closing
+[Thu Apr 17 15:50:23 2025] 10.2.10.140:35976 Accepted
+[Thu Apr 17 15:50:23 2025] 10.2.10.140:35976 [200]: GET /
+[Thu Apr 17 15:50:23 2025] 10.2.10.140:35976 Closing
+[Thu Apr 17 15:50:26 2025] 10.2.10.140:35986 Accepted
+[Thu Apr 17 15:50:26 2025] 10.2.10.140:35986 [200]: GET /
+[Thu Apr 17 15:50:26 2025] 10.2.10.140:35986 Closing
+[Thu Apr 17 15:50:30 2025] 10.2.9.25:46080 Accepted
+[Thu Apr 17 15:50:30 2025] 10.2.9.25:46080 [200]: GET /admin/login
+[Thu Apr 17 15:50:30 2025] 10.2.9.25:46080 Closing
+[Thu Apr 17 15:50:30 2025] 10.2.9.25:46082 Accepted
+[Thu Apr 17 15:50:30 2025] 10.2.9.25:46082 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:50:30 2025] 10.2.9.25:46082 Closing
+[Thu Apr 17 15:50:30 2025] 10.2.10.140:59542 Accepted
+[Thu Apr 17 15:50:30 2025] 10.2.10.140:59542 [200]: GET /
+[Thu Apr 17 15:50:30 2025] 10.2.10.140:59542 Closing
+[Thu Apr 17 15:50:33 2025] 10.2.10.140:59548 Accepted
+[Thu Apr 17 15:50:33 2025] 10.2.10.140:59548 [200]: GET /
+[Thu Apr 17 15:50:33 2025] 10.2.10.140:59548 Closing
+[Thu Apr 17 15:50:36 2025] 10.2.10.140:59554 Accepted
+[Thu Apr 17 15:50:36 2025] 10.2.10.140:59554 [200]: GET /
+[Thu Apr 17 15:50:36 2025] 10.2.10.140:59554 Closing
+[Thu Apr 17 15:50:37 2025] 10.2.9.25:46094 Accepted
+[Thu Apr 17 15:50:37 2025] 10.2.9.25:46094 [200]: GET /admin/login
+[Thu Apr 17 15:50:37 2025] 10.2.9.25:46094 Closing
+[Thu Apr 17 15:50:37 2025] 10.2.9.25:46106 Accepted
+[Thu Apr 17 15:50:37 2025] 10.2.9.25:46106 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:50:37 2025] 10.2.9.25:46106 Closing
+[Thu Apr 17 15:50:39 2025] 10.2.10.140:59834 Accepted
+[Thu Apr 17 15:50:39 2025] 10.2.10.140:59834 [200]: GET /
+[Thu Apr 17 15:50:39 2025] 10.2.10.140:59834 Closing
+[Thu Apr 17 15:50:42 2025] 10.2.10.140:59842 Accepted
+[Thu Apr 17 15:50:42 2025] 10.2.10.140:59842 [200]: GET /
+[Thu Apr 17 15:50:42 2025] 10.2.10.140:59842 Closing
+[Thu Apr 17 15:50:46 2025] 10.2.10.140:59856 Accepted
+[Thu Apr 17 15:50:46 2025] 10.2.10.140:59856 [200]: GET /
+[Thu Apr 17 15:50:46 2025] 10.2.10.140:59856 Closing
+[Thu Apr 17 15:50:48 2025] 10.2.9.25:44356 Accepted
+[Thu Apr 17 15:50:48 2025] 10.2.9.25:44356 [200]: GET /admin/login
+[Thu Apr 17 15:50:48 2025] 10.2.9.25:44356 Closing
+[Thu Apr 17 15:50:48 2025] 10.2.9.25:44364 Accepted
+[Thu Apr 17 15:50:48 2025] 10.2.9.25:44364 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:50:48 2025] 10.2.9.25:44364 Closing
+[Thu Apr 17 15:50:49 2025] 10.2.10.140:57702 Accepted
+[Thu Apr 17 15:50:49 2025] 10.2.10.140:57702 [200]: GET /
+[Thu Apr 17 15:50:49 2025] 10.2.10.140:57702 Closing
+[Thu Apr 17 15:50:52 2025] 10.2.10.140:57718 Accepted
+[Thu Apr 17 15:50:52 2025] 10.2.10.140:57718 [200]: GET /
+[Thu Apr 17 15:50:52 2025] 10.2.10.140:57718 Closing
+[Thu Apr 17 15:50:55 2025] 10.2.10.140:57726 Accepted
+[Thu Apr 17 15:50:55 2025] 10.2.10.140:57726 [200]: GET /
+[Thu Apr 17 15:50:55 2025] 10.2.10.140:57726 Closing
+[Thu Apr 17 15:50:55 2025] 10.2.9.25:46726 Accepted
+[Thu Apr 17 15:50:55 2025] 10.2.9.25:46726 [200]: GET /admin/login
+[Thu Apr 17 15:50:55 2025] 10.2.9.25:46726 Closing
+[Thu Apr 17 15:50:55 2025] 10.2.9.25:46732 Accepted
+[Thu Apr 17 15:50:55 2025] 10.2.9.25:46732 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:50:55 2025] 10.2.9.25:46732 Closing
+[Thu Apr 17 15:50:58 2025] 10.2.10.140:57730 Accepted
+[Thu Apr 17 15:50:58 2025] 10.2.10.140:57730 [200]: GET /
+[Thu Apr 17 15:50:58 2025] 10.2.10.140:57730 Closing
+[Thu Apr 17 15:51:02 2025] 10.2.10.140:38184 Accepted
+[Thu Apr 17 15:51:02 2025] 10.2.10.140:38184 [200]: GET /
+[Thu Apr 17 15:51:02 2025] 10.2.10.140:38184 Closing
+[Thu Apr 17 15:51:03 2025] 10.2.9.25:55952 Accepted
+[Thu Apr 17 15:51:03 2025] 10.2.9.25:55952 [200]: GET /admin/login
+[Thu Apr 17 15:51:03 2025] 10.2.9.25:55952 Closing
+[Thu Apr 17 15:51:03 2025] 10.2.9.25:55954 Accepted
+[Thu Apr 17 15:51:03 2025] 10.2.9.25:55954 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:51:03 2025] 10.2.9.25:55954 Closing
+[Thu Apr 17 15:51:05 2025] 10.2.10.140:38194 Accepted
+[Thu Apr 17 15:51:05 2025] 10.2.10.140:38194 [200]: GET /
+[Thu Apr 17 15:51:05 2025] 10.2.10.140:38194 Closing
+[Thu Apr 17 15:51:08 2025] 10.2.10.140:38206 Accepted
+[Thu Apr 17 15:51:08 2025] 10.2.10.140:38206 [200]: GET /
+[Thu Apr 17 15:51:08 2025] 10.2.10.140:38206 Closing
+[Thu Apr 17 15:51:11 2025] 10.2.10.140:52450 Accepted
+[Thu Apr 17 15:51:11 2025] 10.2.10.140:52450 [200]: GET /
+[Thu Apr 17 15:51:11 2025] 10.2.10.140:52450 Closing
+[Thu Apr 17 15:51:14 2025] 10.2.10.140:52458 Accepted
+[Thu Apr 17 15:51:14 2025] 10.2.10.140:52458 [200]: GET /
+[Thu Apr 17 15:51:14 2025] 10.2.10.140:52458 Closing
+[Thu Apr 17 15:51:17 2025] 10.2.9.25:37348 Accepted
+[Thu Apr 17 15:51:17 2025] 10.2.9.25:37348 [200]: GET /admin/login
+[Thu Apr 17 15:51:17 2025] 10.2.9.25:37348 Closing
+[Thu Apr 17 15:51:17 2025] 10.2.9.25:37352 Accepted
+[Thu Apr 17 15:51:17 2025] 10.2.9.25:37352 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:51:17 2025] 10.2.9.25:37352 Closing
+[Thu Apr 17 15:51:18 2025] 10.2.10.140:52462 Accepted
+[Thu Apr 17 15:51:18 2025] 10.2.10.140:52462 [200]: GET /
+[Thu Apr 17 15:51:18 2025] 10.2.10.140:52462 Closing
+[Thu Apr 17 15:51:21 2025] 10.2.10.140:59408 Accepted
+[Thu Apr 17 15:51:21 2025] 10.2.10.140:59408 [200]: GET /
+[Thu Apr 17 15:51:21 2025] 10.2.10.140:59408 Closing
+[Thu Apr 17 15:51:24 2025] 10.2.10.140:59418 Accepted
+[Thu Apr 17 15:51:24 2025] 10.2.10.140:59418 [200]: GET /
+[Thu Apr 17 15:51:24 2025] 10.2.10.140:59418 Closing
+[Thu Apr 17 15:51:25 2025] 10.2.9.25:35104 Accepted
+[Thu Apr 17 15:51:25 2025] 10.2.9.25:35104 [200]: GET /admin/login
+[Thu Apr 17 15:51:25 2025] 10.2.9.25:35104 Closing
+[Thu Apr 17 15:51:25 2025] 10.2.9.25:35108 Accepted
+[Thu Apr 17 15:51:25 2025] 10.2.9.25:35108 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:51:25 2025] 10.2.9.25:35108 Closing
+[Thu Apr 17 15:51:27 2025] 10.2.10.140:59430 Accepted
+[Thu Apr 17 15:51:27 2025] 10.2.10.140:59430 [200]: GET /
+[Thu Apr 17 15:51:27 2025] 10.2.10.140:59430 Closing
+[Thu Apr 17 15:51:30 2025] 10.2.10.140:57586 Accepted
+[Thu Apr 17 15:51:30 2025] 10.2.10.140:57586 [200]: GET /
+[Thu Apr 17 15:51:30 2025] 10.2.10.140:57586 Closing
+[Thu Apr 17 15:51:34 2025] 10.2.9.25:39378 Accepted
+[Thu Apr 17 15:51:34 2025] 10.2.9.25:39378 [200]: GET /admin/login
+[Thu Apr 17 15:51:34 2025] 10.2.9.25:39378 Closing
+[Thu Apr 17 15:51:34 2025] 10.2.9.25:39388 Accepted
+[Thu Apr 17 15:51:34 2025] 10.2.9.25:39388 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:51:34 2025] 10.2.9.25:39388 Closing
+[Thu Apr 17 15:51:34 2025] 10.2.10.140:57598 Accepted
+[Thu Apr 17 15:51:34 2025] 10.2.10.140:57598 [200]: GET /
+[Thu Apr 17 15:51:34 2025] 10.2.10.140:57598 Closing
+[Thu Apr 17 15:51:37 2025] 10.2.10.140:57600 Accepted
+[Thu Apr 17 15:51:37 2025] 10.2.10.140:57600 [200]: GET /
+[Thu Apr 17 15:51:37 2025] 10.2.10.140:57600 Closing
+[Thu Apr 17 15:51:40 2025] 10.2.10.140:34206 Accepted
+[Thu Apr 17 15:51:40 2025] 10.2.10.140:34206 [200]: GET /
+[Thu Apr 17 15:51:40 2025] 10.2.10.140:34206 Closing
+[Thu Apr 17 15:51:43 2025] 10.2.10.140:34208 Accepted
+[Thu Apr 17 15:51:43 2025] 10.2.10.140:34208 [200]: GET /
+[Thu Apr 17 15:51:43 2025] 10.2.10.140:34208 Closing
+[Thu Apr 17 15:51:49 2025] 10.2.0.218:53612 Accepted
+[Thu Apr 17 15:51:49 2025] 10.2.0.218:53612 [200]: GET /admin - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zubi.exam_questions' doesn't exist in /workspace/Boo/admin/controllers/AdminDashboardController.php:248
+Stack trace:
+#0 /workspace/Boo/admin/controllers/AdminDashboardController.php(248): PDO->prepare()
+#1 /workspace/Boo/classes/Router.php(170): AdminDashboardController->index()
+#2 /workspace/Boo/classes/Router.php(99): Router->executeHandler()
+#3 /workspace/Boo/admin/index.php(122): Router->dispatch()
+#4 {main}
+  thrown in /workspace/Boo/admin/controllers/AdminDashboardController.php on line 248
+[Thu Apr 17 15:51:49 2025] 10.2.0.218:53612 Closing
+[Thu Apr 17 15:51:52 2025] 10.2.0.218:53616 Accepted
+[Thu Apr 17 15:51:52 2025] 10.2.0.218:53616 [200]: GET /admin - Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'zubi.exam_questions' doesn't exist in /workspace/Boo/admin/controllers/AdminDashboardController.php:248
+Stack trace:
+#0 /workspace/Boo/admin/controllers/AdminDashboardController.php(248): PDO->prepare()
+#1 /workspace/Boo/classes/Router.php(170): AdminDashboardController->index()
+#2 /workspace/Boo/classes/Router.php(99): Router->executeHandler()
+#3 /workspace/Boo/admin/index.php(122): Router->dispatch()
+#4 {main}
+  thrown in /workspace/Boo/admin/controllers/AdminDashboardController.php on line 248
+[Thu Apr 17 15:51:52 2025] 10.2.0.218:53616 Closing
+[Thu Apr 17 15:51:56 2025] 10.2.10.140:50858 Accepted
+[Thu Apr 17 15:51:56 2025] 10.2.10.140:50858 [200]: GET /
+[Thu Apr 17 15:51:56 2025] 10.2.10.140:50858 Closing
+[Thu Apr 17 15:51:58 2025] 10.2.9.25:49848 Accepted
+[Thu Apr 17 15:51:58 2025] 10.2.9.25:49848 [200]: GET /admin/login
+[Thu Apr 17 15:51:58 2025] 10.2.9.25:49848 Closing
+[Thu Apr 17 15:51:58 2025] 10.2.9.25:49854 Accepted
+[Thu Apr 17 15:51:58 2025] 10.2.9.25:49854 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:51:58 2025] 10.2.9.25:49854 Closing
+[Thu Apr 17 15:51:59 2025] 10.2.10.140:57804 Accepted
+[Thu Apr 17 15:51:59 2025] 10.2.10.140:57804 [200]: GET /
+[Thu Apr 17 15:51:59 2025] 10.2.10.140:57804 Closing
+[Thu Apr 17 15:52:02 2025] 10.2.10.140:57816 Accepted
+[Thu Apr 17 15:52:02 2025] 10.2.10.140:57816 [200]: GET /
+[Thu Apr 17 15:52:02 2025] 10.2.10.140:57816 Closing
+[Thu Apr 17 15:52:05 2025] 10.2.10.140:57820 Accepted
+[Thu Apr 17 15:52:05 2025] 10.2.10.140:57820 [200]: GET /
+[Thu Apr 17 15:52:05 2025] 10.2.10.140:57820 Closing
+[Thu Apr 17 15:52:06 2025] 10.2.9.25:49856 Accepted
+[Thu Apr 17 15:52:06 2025] 10.2.9.25:49856 [200]: GET /admin/login
+[Thu Apr 17 15:52:06 2025] 10.2.9.25:49856 Closing
+[Thu Apr 17 15:52:06 2025] 10.2.9.25:49872 Accepted
+[Thu Apr 17 15:52:06 2025] 10.2.9.25:49872 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:52:06 2025] 10.2.9.25:49872 Closing
+[Thu Apr 17 15:52:09 2025] 10.2.10.140:55478 Accepted
+[Thu Apr 17 15:52:09 2025] 10.2.10.140:55478 [200]: GET /
+[Thu Apr 17 15:52:09 2025] 10.2.10.140:55478 Closing
+[Thu Apr 17 15:52:12 2025] 10.2.10.140:55482 Accepted
+[Thu Apr 17 15:52:12 2025] 10.2.10.140:55482 [200]: GET /
+[Thu Apr 17 15:52:12 2025] 10.2.10.140:55482 Closing
+[Thu Apr 17 15:52:15 2025] 10.2.10.140:55486 Accepted
+[Thu Apr 17 15:52:15 2025] 10.2.10.140:55486 [200]: GET /
+[Thu Apr 17 15:52:15 2025] 10.2.10.140:55486 Closing
+[Thu Apr 17 15:52:18 2025] 10.2.10.140:55500 Accepted
+[Thu Apr 17 15:52:18 2025] 10.2.10.140:55500 [200]: GET /
+[Thu Apr 17 15:52:18 2025] 10.2.10.140:55500 Closing
+[Thu Apr 17 15:52:19 2025] 10.2.9.25:36156 Accepted
+[Thu Apr 17 15:52:19 2025] 10.2.9.25:36156 [200]: GET /admin/login
+[Thu Apr 17 15:52:19 2025] 10.2.9.25:36156 Closing
+[Thu Apr 17 15:52:19 2025] 10.2.9.25:36166 Accepted
+[Thu Apr 17 15:52:19 2025] 10.2.9.25:36166 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:52:19 2025] 10.2.9.25:36166 Closing
+[Thu Apr 17 15:52:22 2025] 10.2.10.140:44716 Accepted
+[Thu Apr 17 15:52:22 2025] 10.2.10.140:44716 [200]: GET /
+[Thu Apr 17 15:52:22 2025] 10.2.10.140:44716 Closing
+[Thu Apr 17 15:52:25 2025] 10.2.10.140:44730 Accepted
+[Thu Apr 17 15:52:25 2025] 10.2.10.140:44730 [200]: GET /
+[Thu Apr 17 15:52:25 2025] 10.2.10.140:44730 Closing
+[Thu Apr 17 15:52:27 2025] 10.2.9.25:36178 Accepted
+[Thu Apr 17 15:52:27 2025] 10.2.9.25:36178 [200]: GET /admin/login
+[Thu Apr 17 15:52:27 2025] 10.2.9.25:36178 Closing
+[Thu Apr 17 15:52:27 2025] 10.2.9.25:36190 Accepted
+[Thu Apr 17 15:52:27 2025] 10.2.9.25:36190 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:52:27 2025] 10.2.9.25:36190 Closing
+[Thu Apr 17 15:52:28 2025] 10.2.10.140:44734 Accepted
+[Thu Apr 17 15:52:28 2025] 10.2.10.140:44734 [200]: GET /
+[Thu Apr 17 15:52:28 2025] 10.2.10.140:44734 Closing
+[Thu Apr 17 15:52:31 2025] 10.2.10.140:50230 Accepted
+[Thu Apr 17 15:52:31 2025] 10.2.10.140:50230 [200]: GET /
+[Thu Apr 17 15:52:31 2025] 10.2.10.140:50230 Closing
+[Thu Apr 17 15:52:34 2025] 10.2.10.140:50234 Accepted
+[Thu Apr 17 15:52:34 2025] 10.2.10.140:50234 [200]: GET /
+[Thu Apr 17 15:52:34 2025] 10.2.10.140:50234 Closing
+[Thu Apr 17 15:52:37 2025] 10.2.9.25:50802 Accepted
+[Thu Apr 17 15:52:37 2025] 10.2.9.25:50802 [200]: GET /admin/login
+[Thu Apr 17 15:52:37 2025] 10.2.9.25:50802 Closing
+[Thu Apr 17 15:52:37 2025] 10.2.9.25:50812 Accepted
+[Thu Apr 17 15:52:37 2025] 10.2.9.25:50812 [200]: GET /admin/assets/css/admin.css
+[Thu Apr 17 15:52:37 2025] 10.2.9.25:50812 Closing
+[Thu Apr 17 15:52:38 2025] 10.2.10.140:50250 Accepted
+[Thu Apr 17 15:52:38 2025] 10.2.10.140:50250 [200]: GET /
+[Thu Apr 17 15:52:38 2025] 10.2.10.140:50250 Closing
+[Thu Apr 17 15:52:41 2025] 10.2.10.140:36494 Accepted
+[Thu Apr 17 15:52:41 2025] 10.2.10.140:36494 [200]: GET /
+[Thu Apr 17 15:52:41 2025] 10.2.10.140:36494 Closing
+[Thu Apr 17 15:52:44 2025] 10.2.10.140:36502 Accepted
+[Thu Apr 17 15:52:44 2025] 10.2.10.140:36502 [200]: GET /
+[Thu Apr 17 15:52:44 2025] 10.2.10.140:36502 Closing
+[Thu Apr 17 15:52:47 2025] 10.2.10.140:36506 Accepted
+[Thu Apr 17 15:52:47 2025] 10.2.10.140:36506 [200]: GET /
+[Thu Apr 17 15:52:47 2025] 10.2.10.140:36506 Closing
+[Thu Apr 17 15:52:50 2025] 10.2.10.140:51036 Accepted
+[Thu Apr 17 15:52:50 2025] 10.2.10.140:51036 [200]: GET /
+[Thu Apr 17 15:52:50 2025] 10.2.10.140:51036 Closing
+[Thu Apr 17 15:52:54 2025] 10.2.10.140:51046 Accepted
+[Thu Apr 17 15:52:54 2025] 10.2.10.140:51046 [200]: GET /
+[Thu Apr 17 15:52:54 2025] 10.2.10.140:51046 Closing
+[Thu Apr 17 15:52:57 2025] 10.2.10.140:51062 Accepted
+[Thu Apr 17 15:52:57 2025] 10.2.10.140:51062 [200]: GET /
+[Thu Apr 17 15:52:57 2025] 10.2.10.140:51062 Closing
+[Thu Apr 17 15:53:00 2025] 10.2.10.140:42662 Accepted
+[Thu Apr 17 15:53:00 2025] 10.2.10.140:42662 [200]: GET /
+[Thu Apr 17 15:53:00 2025] 10.2.10.140:42662 Closing
+[Thu Apr 17 15:53:03 2025] 10.2.10.140:42678 Accepted
+[Thu Apr 17 15:53:03 2025] 10.2.10.140:42678 [200]: GET /
+[Thu Apr 17 15:53:03 2025] 10.2.10.140:42678 Closing
